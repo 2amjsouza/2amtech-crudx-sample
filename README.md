@@ -1,1 +1,0 @@
-# 2amtech-crudx-sample
